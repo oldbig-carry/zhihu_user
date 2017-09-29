@@ -8,7 +8,7 @@ Scrapy递归爬取知乎所有用户
 首先：
 安装scrapy:pip3 install scrapy
 
-安装mongodo：https://www.mongodb.com/download-center?jmp=nav#atlas
+安装mongodb：https://www.mongodb.com/download-center?jmp=nav#atlas
 
 
 右击运行main.py
