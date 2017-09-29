@@ -10,6 +10,7 @@ Scrapy递归爬取知乎所有用户
 
 安装mongodb：https://www.mongodb.com/download-center?jmp=nav#atlas
 
+修改zhihu.py 的手机号码和密码
 
 右击运行main.py
 
